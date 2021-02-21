@@ -116,3 +116,9 @@ solve()
 - [x] Meaningful comments
 - [ ] Via OpenCV: Capture sokoko board and extract numbers
 - [ ] Via Qt: Graphical User Interface
+
+### Resources:   
+[Python Sudoku Solver - Computerphile](https://www.youtube.com/watch?v=G_UYXzGuqvM&t=270s)   
+https://en.wikipedia.org/wiki/Sudoku
+
+
