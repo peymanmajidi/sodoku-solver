@@ -112,6 +112,13 @@ def solve():
 solve()
 ```
 
+## Youtube:   
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rIm_02JOnDI/hqdefault.jpg)](https://www.youtube.com/watch?v=rIm_02JOnDI)
+
+
+
+
+
 ## TODO
 - [x] Meaningful comments
 - [ ] Via OpenCV: Capture sokoko board and extract numbers
