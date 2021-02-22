@@ -5,7 +5,7 @@
 Sudoku (数独, sūdoku) originally called Number Place) is a logic-based,combinatorialnumber-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column   
 
 ### Sodoko Solver
-We Wanna solve sodoko by python in an recursive way
+We Wanna solve sodoku by python in a recursive way
 So far so good. if you are intersted I am *Peyman Majidi* and this is my website: http://peymanmajidi.ir/   
 Let's go
 
