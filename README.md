@@ -1,17 +1,17 @@
 <img style="float: right;width:200px" src="logo">
 
 # Sodoku / سودوکو
-### What is Sodoko?
+### What is sodoku?
 Sudoku (数独, sūdoku) originally called Number Place) is a logic-based,combinatorialnumber-placement puzzle. In classic sudoku, the objective is to fill a 9×9 grid with digits so that each column   
 
-### Sodoko Solver
-We Wanna solve sodoku by python in a recursive way
+### sodoku Solver
+We wanna solve sodoku by python in a recursive way.
 So far so good. if you are intersted I am *Peyman Majidi* and this is my website: http://peymanmajidi.ir/   
 Let's go
 
 
 
-## Define Sodoko grid
+## Define sodoku grid
 
 
 ```python
@@ -39,7 +39,7 @@ import numpy as np
 print(np.matrix(grid))
 ```
 
-## Lets make it pretty as sodoko is
+## Lets make it pretty as sodoku is
 
 
 ```python
@@ -63,7 +63,7 @@ prettify()
 ```
 
 ## We need to solve it
-Lets solve iven sodoko in a recursive way, fun part is here :)
+Lets solve it, in a recursive way, fun part is here :)
 
 
 ```python
